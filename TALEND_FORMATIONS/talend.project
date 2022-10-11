@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_epPw8ElfEe2ieKXTjwgn7g" label="TALEND_FORMATIONS" language="java" technicalLabel="TALEND_FORMATIONS" author="_epPw8UlfEe2ieKXTjwgn7g" productVersion="Talend Cloud Data Fabric-8.0.1.20220818_1145-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/romainmayoly/rma_talend_formation.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3" bigData="false">
+    <migrationTask xmi:id="_epY64ElfEe2ieKXTjwgn7g" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_epPw8UlfEe2ieKXTjwgn7g" login="rmayoly@nfr.cosmosconsulting.fr" firstName="Romain" lastName="MAYOLY" type="DQ"/>
+</xmi:XMI>
